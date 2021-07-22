@@ -5,7 +5,7 @@ NCTU CS student (now called NYCU), interested in software engineering and machin
 - Name: 劉柏宇, Roger Liu, OhMyBug
 - Languages: C/C++, Golang, Python
 - Skills: AWS, Git, Linux, CI, testing
-- Current: Machine Learning, Deep Learning, Golang community in NYCU
+- Current: Machine Learning, Deep Learning
 - Experience:
 	- Build website for NCTU CBT
 	- Backend intern in Moldex3D
